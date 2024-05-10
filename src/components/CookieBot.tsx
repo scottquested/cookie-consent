@@ -6,7 +6,6 @@ export async function CookiebotBanner() {
       id="Cookiebot"
       src="https://consent.cookiebot.com/uc.js"
       data-cbid="67b29a32-f6f7-4613-96ec-d2be109f42ed"
-      data-blockingmode="auto"
       type="text/javascript"
     />
   );
